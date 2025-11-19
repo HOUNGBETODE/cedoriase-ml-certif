@@ -16,7 +16,7 @@ Avec un score final de **95/100**, cette réussite ne représente pas seulement 
 
 ## 🎓 Le Parcours : De la Vision par Ordinateur à la Certification
 
-Ce succès est l'aboutissement d'un programme rigoureux suivi avec **CEDORIASE ACADEMY**. 
+Ce succès est l'aboutissement d'un programme rigoureux suivi avec **[CEDORIASE ACADEMY](https://www.linkedin.com/company/cedoriaseacademy)**. 
 
 Mon parcours s'est articulé autour de deux axes majeurs :
 1.  **Pratique Intensive (Computer Vision) :** Une immersion dans les systèmes de vision artificielle, où j'ai été formé et entraîné à résoudre des problèmes complexes.
@@ -43,6 +43,6 @@ Vous pouvez vérifier l'authenticité de ce certificat via le lien officiel ci-d
 
 ## 🙏 Remerciements
 
-Un grand merci à **CEDORIASE ACADEMY** pour la qualité de la formation, le coaching intensif et l'opportunité de valider ces compétences à l'échelle internationale. Prêt pour les prochains défis en Data Science et Computer Vision !
+Un grand merci à **[CEDORIASE ACADEMY](https://www.linkedin.com/company/cedoriaseacademy)** pour la qualité de la formation, le coaching intensif et l'opportunité de valider ces compétences à l'échelle internationale. Prêt pour les prochains défis en Data Science et Computer Vision !
 
 ---
